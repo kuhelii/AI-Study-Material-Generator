@@ -5,19 +5,7 @@ Welcome to the AI Study Material Generator, a cutting-edge SaaS application desi
 
 ---
 
-## 📋 Table of Contents
-- [About the Project](#about-the-project)
-- [Key Features](#key-features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
----
 
 ## 📝 About the Project
 
@@ -145,15 +133,4 @@ Before starting, ensure you have the following installed:
 
 ---
 
-## 📜 License
-Distributed under the MIT License. See LICENSE for more details.
 
-## 📞 Contact
-Project Maintainer:
-
-- Aditya Kumar Singh
-- Email: adiaparmar@gmail.com
-- GitHub: Adiaparmar
-
----
-Feel free to reach out with any questions, ideas, or feedback!
